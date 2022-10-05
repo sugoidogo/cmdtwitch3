@@ -16,6 +16,8 @@ def apiCall(requestInfo):
         #print(response)
         return response
     except HTTPError as error:
+        if(error.code==401):
+            return get_token()
         stderr.write(vars(requestInfo)+'\n')
         stderr.write(error.read().decode()+'\n')
         raise error
