@@ -2,7 +2,7 @@
 OBS Script for launching commands on your pc for twitch redeems
 ## Install
 ### Windows
-Before OBS can use python scripts, it needs to know where to find a compativle python interpreter. You can either:
+Before OBS can use python scripts, it needs to know where to find a compatible python interpreter. You can either:
 - Use my [OBS Python Installer](https://github.com/sugoidogo/obs-python-installer) to detect or install a compatible python interpreter and update your obs settings automatically
 - Locate your existing python install via `Tools > Scripts > Python Settings`
 ### All Platforms
@@ -15,5 +15,5 @@ Download and extract the [latest release](https://github.com/sugoidogo/obs-start
 3. ...
 4. Profit?
 ## Support
-- Get support via [Discord](https://discord.gg/zxDnYSvMNw)
+- Get support via [Discord](https://discord.gg/PbGT9tVWTC)
 - Give support via [PayPal](https://paypal.me/SugoiDogo)
