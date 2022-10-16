@@ -15,4 +15,4 @@ Download and extract the [latest release](https://github.com/sugoidogo/obs-start
 3. ...
 4. Profit?
 ## Support
-Support information for all my software is on my [GitHub profile](github.com/sugoidogo)
+Support information for all my software is on my [GitHub profile](https://github.com/sugoidogo)
