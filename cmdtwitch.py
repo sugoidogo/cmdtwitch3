@@ -79,6 +79,9 @@ def main():
                 subprocess.Popen(command,cwd=dirname(command))
             except KeyError:
                 pass
+            except:
+                import traceback
+                traceback.print_exc()
         time.sleep(1)
 
 def get_token():
