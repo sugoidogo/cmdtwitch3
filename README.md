@@ -15,5 +15,4 @@ Download and extract the [latest release](https://github.com/sugoidogo/obs-start
 3. ...
 4. Profit?
 ## Support
-- Get support via [Discord](https://discord.gg/PbGT9tVWTC)
-- Give support via [PayPal](https://paypal.me/SugoiDogo)
+Support information for all my software is on my [GitHub profile](https://github.com/sugoidogo)
