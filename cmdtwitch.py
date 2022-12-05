@@ -76,7 +76,7 @@ def main():
                 command=command.replace('$USER_INPUT',response['data'][0]['user_input'])
                 print(command)
                 from os.path import dirname
-                subprocess.Popen(command,cwd=dirname(command))
+                subprocess.Popen(command,cwd=dirname(command),shell=True)
             except KeyError:
                 pass
             except:
